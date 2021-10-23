@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/AlligatorIcon.png</file>
+        <file>Images/BearIcon.png</file>
+        <file>Images/BearImage.jpg</file>
+        <file>Images/BearWinterImage.jpg</file>
+        <file>Images/BirdIcon.png</file>
+        <file>Images/CatIcon.jpg</file>
+        <file>Images/Chicken.png</file>
+        <file>Images/ChickenIcon.jpg</file>
+        <file>Images/CowIcon.png</file>
+        <file>Images/CrowIcon.png</file>
+        <file>Images/DogIcon.png</file>
+        <file>Images/DonkeyIcon.png</file>
+        <file>Images/DuckIcon.png</file>
+        <file>Images/EagleIcon.png</file>
+        <file>Images/FishIcon.png</file>
+        <file>Images/FoxIcon.jpg</file>
+        <file>Images/FoxImage.jpg</file>
+        <file>Images/FoxWinterImage.jpg</file>
+        <file>Images/GoatIcon.png</file>
+        <file>Images/GooseIcon.png</file>
+        <file>Images/HorseIcon.png</file>
+        <file>Images/LeoIcon.png</file>
+        <file>Images/MooseIcon.png</file>
+        <file>Images/OwlIcon.png</file>
+        <file>Images/PenguinIcon.png</file>
+        <file>Images/PigIcon.png</file>
+        <file>Images/PolarBearImage1.jpg</file>
+        <file>Images/PolarBearImage2.jpg</file>
+        <file>Images/PolarBearImage3.jpg</file>
+        <file>Images/RabbitIcon.jpg</file>
+        <file>Images/RatIcon.png</file>
+        <file>Images/SheepIcon.jpg</file>
+        <file>Images/SnakeIcon.png</file>
+        <file>Images/TigerIcon.jpg</file>
+        <file>Images/TurkeyIcon.png</file>
+        <file>Images/TurtleIcon.png</file>
+        <file>Images/WinterFoxImage1.jpg</file>
+        <file>Images/WinterFoxImage2.jpg</file>
+        <file>Images/WinterFoxImage3.jpg</file>
+        <file>Images/WolfIcon.png</file>
+        <file>Images/Background.jpg</file>
+        <file>Images/Background.png</file>
+        <file>Images/Background1.jpg</file>
+        <file>Images/Background2.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

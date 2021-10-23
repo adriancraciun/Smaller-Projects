@@ -1,0 +1,30 @@
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\Batman'sPC.exe.config
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\Batman'sPC.exe
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\Batman'sPC.pdb
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.csprojAssemblyReference.cache
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman_sPC.Form1.resources
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman_sPC.Properties.Resources.resources
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.csproj.GenerateResource.cache
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.exe
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.pdb
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.csproj.ResolveComReference.cache
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\26 oct\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman_sPC.Batman.resources
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\Batman'sPC.exe.config
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\Batman'sPC.exe
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\Batman'sPC.pdb
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.csprojAssemblyReference.cache
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.csproj.ResolveComReference.cache
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman_sPC.Form1.resources
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman_sPC.Batman.resources
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman_sPC.Properties.Resources.resources
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.csproj.GenerateResource.cache
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.exe
+C:\Users\Adi\Desktop\Work\School Work\Visual C Projects\Test\Batman'sTopSecret\Batman'sPC\Batman'sPC\obj\Debug\Batman'sPC.pdb
